@@ -50,12 +50,12 @@ print("Meteors count:", results[1])
 print("Meteors falling on water count:", results[2])
 ```
 
-### Output
+### Output based on the image in this repository
 
 ```
-Stars count: 50
-Meteors count: 10
-Meteors falling on water count: 3
+Stars count: 315
+Meteors count: 328
+Meteors falling on water count: 105
 ```
 
 ## Script Details
